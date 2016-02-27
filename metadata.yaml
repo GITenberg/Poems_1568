@@ -1,0 +1,30 @@
+_repo: Poems_1568
+creator:
+  author:
+    agent_name: Henley, William Ernest
+    alias: Henley, W. E. (William Ernest)
+    birthdate: 1849
+    deathdate: 1903
+    gutenberg_agent_id: '369'
+    url: http://www.gutenberg.org/2009/agents/369
+    wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
+description: '"British poet, critic and editor, Henley''s verse is known for its bravado
+  and spirit of defiance, yet it could be equally delicate and lyrical. His best-known
+  poems include England, My England, and Invictus, which concludes with the famous
+  lines I am the master of my fate, I am the captain of my soul. Nearly all of the
+  poems contained in this volume are reprinted from A Book of Verses and London Voluntaries.
+  He has divided the poems into the following headings: In Hospital; Bric-A-Brac;
+  Echoes; London Voluntaries; A Song of Speed; and Rhymes and Rhythms."--'
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: Poems
+url: http://www.gutenberg.org/ebooks/1568
